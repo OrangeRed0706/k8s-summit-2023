@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 設定要被替換的原始字串
-OrigStr="yjring"
+OrigStr="lynn0706"
 
 # 讀取 dockerAccount 並存入 ＄DOCKER_ACCOUNT 變數
 eval $(cat env.yaml | sed -n 's/^[ \t]*dockerAccount:[ \t]*\([^[:space:]]*\)[ \t]*$/DOCKER_ACCOUNT="\1"/p')

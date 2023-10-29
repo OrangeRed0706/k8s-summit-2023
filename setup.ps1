@@ -1,5 +1,5 @@
 # 設定要被替換的原始字串
-$OrigStr = "yjring"
+$OrigStr = "lynn0706"
 
 # 讀取 env.yaml，並存入相應變數
 $envContent = Get-Content -Path env.yaml
