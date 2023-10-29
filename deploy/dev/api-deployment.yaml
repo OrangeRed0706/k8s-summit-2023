@@ -18,7 +18,7 @@ spec:
         vote-config-version: "a9198c"
     spec:
       containers:
-      - image: lynn0706/vote-api:0.1.0
+      - image: lynn0706/vote-api:dev-b91923	
         name: vote-api
         imagePullPolicy: Always
         resources:
